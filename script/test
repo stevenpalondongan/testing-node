@@ -1,0 +1,5 @@
+#!/bin/sh
+#./node_modules/.bin/mocha ./test/test.js
+./node_modules/.bin/mocha ./test/test.js
+#./root/testing-node/node_modules/mocha/bin/mocha ./root/testing-node/test/test.js
+#./root/testing-node/node_modules/mocha/.bin/mocha ./test/test.js
